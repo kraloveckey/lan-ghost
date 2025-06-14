@@ -1,7 +1,5 @@
 # lan-ghost bot
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
-
 Telegram bot written on python that controlling LAN.
 
 <h1>Features:</h1>
@@ -161,3 +159,9 @@ All attacks use **ARP Spoofing**!
 <h3>Notifications:</h3>
 
 You will get a message every time when a new device connects/leaves the network.
+
+---
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=GWWLEXEF3XL92">
+  <img src="https://raw.githubusercontent.com/kraloveckey/kraloveckey/refs/heads/main/.assets/paypal-donate-button.png" alt="Donate with PayPal" width="225" height="100"/>
+</a>
