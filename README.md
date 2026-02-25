@@ -159,3 +159,7 @@ All attacks use **ARP Spoofing**!
 <h3>Notifications:</h3>
 
 You will get a message every time when a new device connects/leaves the network.
+
+---
+
+Copyright (c) 2018 by David Schütz. Some rights reserved.
